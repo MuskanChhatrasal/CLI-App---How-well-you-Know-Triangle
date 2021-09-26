@@ -56,6 +56,11 @@ function quiz (question,options,answer){
     "options": " a) Equilateral triangle \n b) scalene triangle  \n",
     "answer": "a"
   },
+   {
+    "question": " Que 5.Find the area of a triangle whose base is 6 units and height 4 units. \n", 
+    "options": " a) 28 square units \n b) 24 square units \n c) 12 square units \n",
+    "answer": "c"
+  },
   ]
 function playQuiz() {
 
